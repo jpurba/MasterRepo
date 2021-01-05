@@ -1,3 +1,6 @@
 [submodule "subModuleRepo"]
 	path = subModuleRepo
 	url = https://github.com/jpurba/subModuleRepo.git
+[submodule "subModuleRepo2"]
+	path = subModuleRepo2
+	url = https://github.com/jpurba/subModuleRepo2.git
